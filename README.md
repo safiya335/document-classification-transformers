@@ -1,9 +1,9 @@
-# Document Classification using Transformers (BERT / DistilBERT)
+# Document Classification using Transformers (BERT)
 
 ## Overview
-# Document Classification using Transformer Models (BERT/DistilBERT)
+# Document Classification using Transformer Models (BERT)
 
-This project classifies long legal documents into predefined categories using Transformer models (BERT/DistilBERT) with chunking and attention pooling.
+This project classifies long legal documents into predefined categories using Transformer models (BERT) with chunking and attention pooling.
 ---
 
 ## Highlights
