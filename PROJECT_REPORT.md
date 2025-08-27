@@ -1,4 +1,4 @@
-# Document Classification using Transformer Models (BERT/DistilBERT)
+# Document Classification using Transformer Models (BERT)
 
 ## Introduction
 Classifying long legal documents into predefined categories is a challenging task due to the length and complexity of legal texts. Transformer-based models, such as **BERT** and **DistilBERT**, have emerged as state-of-the-art approaches for text classification because they can encode semantic context across long sequences.
